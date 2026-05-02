@@ -26,7 +26,7 @@ It is a **protocol**, not a framework. No dependencies. No runtime. Just files.
 Create a new repo on GitHub called `ai-workflow-template`, then:
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/ai-workflow-template.git
+git clone https://github.com/tarun1125/ai-workflow-template.git
 cd ai-workflow-template
 ```
 
