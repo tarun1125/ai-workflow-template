@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode\
+.idea\
+
+# Template cache (local only — created by init.ps1 in %LOCALAPPDATA%)
+# This folder is NOT in the repo — it lives on your machine at:
+# %LOCALAPPDATA%\workflow-template-cache\

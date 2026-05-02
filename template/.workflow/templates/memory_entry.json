@@ -1,0 +1,13 @@
+{
+  "_comment": "Copy this file to .workflow\\memory\\entries\\<id>.json and fill in the fields. Then update .workflow\\memory\\index.md.",
+  "id": "unique_slug_here",
+  "type": "bug | decision | heuristic",
+  "tags": ["tag1", "tag2"],
+  "content": "The lesson, decision, or heuristic. Be specific. Include what triggered it.",
+  "example": "Optional: a concrete example of when this applies or what went wrong",
+  "confidence": "low | medium | high",
+  "created": "YYYY-MM-DD",
+  "last_used": "YYYY-MM-DD",
+  "use_count": 0,
+  "review_after": "YYYY-MM-DD"
+}
